@@ -26,7 +26,7 @@ column represents bilaterally symmetric ships with a total width of 17.
 
  Speed |          Symmetry
        | asym |  odd | even | gutter 
--------+-----------------------------
+-------+------+------+------+--------
   c/3  |  13  |  10  |  10  |   10
   c/4  |  11  |   9  |   9  |    9
   c/5  |  10  |   9  |   9  |    9
