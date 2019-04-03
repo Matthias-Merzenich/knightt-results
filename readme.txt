@@ -1,16 +1,16 @@
 knightt is a spaceship search program by Tim Coe.  It is designed to
 investigate the complete spaceship tree for spaceships of a given speed,
-period, and symmetry.  For any (2*PERIOD + 1) phases of a row that is part
-of a ship of the given type the search outputs the shortest ship containing
-those phases.  A complete search gives a set of spaceships that could be
-used to construct any possible spaceship of that type and width.
+period, width, and symmetry.  For any (2*PERIOD + 1) phases of a row tha
+is part of a ship of the given type the search outputs the shortest ship
+containing those phases.  A complete search gives a set of spaceships that
+could be used to construct any possible spaceship of that type and width.
 
 This collection contains the output of completed knightt searches.  A small
 number of results from incomplete searches are also included.
 
 The files are presented in gzipped RLE format and can be read directly by
 the latest version of Golly.  The collection is sorted by speed.  File
-names indicate the speed, width and symmetry of the search. The symmetry
+names indicate the speed, width, and symmetry of the search.  The symmetry
 codes are as follows:
 
 n = asymmetry
