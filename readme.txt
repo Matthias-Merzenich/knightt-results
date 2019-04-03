@@ -9,7 +9,7 @@ This collection contains the output of completed knightt searches.  A small
 number of results from incomplete searches are also included.
 
 The files are presented in gzipped RLE format and can be read directly by
-the lattest version of Golly.  The collection is sorted by speed.  File
+the latest version of Golly.  The collection is sorted by speed.  File
 names indicate the speed, width and symmetry of the search. The symmetry
 codes are as follows:
 
