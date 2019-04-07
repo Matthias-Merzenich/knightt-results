@@ -1,6 +1,6 @@
 knightt is a spaceship search program by Tim Coe.  It is designed to
 investigate the complete spaceship tree for spaceships of a given speed,
-period, width, and symmetry.  For any (2*PERIOD + 1) phases of a row tha
+period, width, and symmetry.  For any (2*PERIOD + 1) phases of a row that
 is part of a ship of the given type the search outputs the shortest ship
 containing those phases.  A complete search gives a set of spaceships that
 could be used to construct any possible spaceship of that type and width.
@@ -31,7 +31,7 @@ column represents bilaterally symmetric ships with a total width of 17.
   c/4  |  11  |   9  |   9  |    9
   c/5  |  10  |   9  |   9  |    9
  2c/5  |  12  |   9  |  10  |   10
-  c/6  |  11  |   9  |   8  |    9
+  c/6  |  11  |   9  |   9  |    9
   c/7  |   9  |   9  |  10  |    9
  3c/7  |  14  |  14  |  14  |   14
   c/8  |  10  |   9  |   9  |    9
